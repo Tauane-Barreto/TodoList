@@ -1,0 +1,29 @@
+.TaskArea {
+    font-family: 'Inter';
+}
+
+.image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 4rem;
+    gap: 0.5rem;
+}
+
+.image p {
+    color: var(--gray-300);
+    display: flex;
+    flex-direction: column;
+    font-size: 1rem;
+}
+
+.head {
+    display: flex;
+    color: var(--bluedark);
+    justify-content: center;
+    margin-top: 4rem;
+    gap:30rem;   
+}
+ 
+

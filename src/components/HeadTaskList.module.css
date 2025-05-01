@@ -1,0 +1,25 @@
+.headTaskList {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Inter';
+    font-weight: bolder;
+    font-size: 1rem;  
+}
+
+.phrase1 {
+    color: var(--blue);
+}
+
+.phrase2 {
+    color: var(--purple);
+}
+
+.counter {
+    background-color:var(--gray-400);
+    color: var(--gray-200);
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    margin-left: 8px;
+}
+  
